@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Liwen Wang (WangLiwen071031)
 
 ## 👨‍💻 About Me
- Hello, welcome to my personal website 🌐
+ Hello,
  I am a 17-year-old high school student and an uploader (content creator) who is passionate about photography.
  I enjoy various modes of transportation and love taking photos of trains 🚄, buses 🚌, and planes ✈️… 
  I also like JJ Lin 💜's songs. ESFJ (Myers-Briggs personality type). 
@@ -15,7 +15,7 @@
 
 ## 🌱 Currently Learning
 - Photography and Video Editing
-- 
+
 ---
 
 ⭐️ From [WangLiwen071031](https://github.com/WangLiwen071031)
